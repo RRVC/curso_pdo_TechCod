@@ -13,7 +13,7 @@ $p = new RegisteringSQL("crudpdo", "localhost", "root", "");
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registering HTML</title>
-    <link rel="stylesheet" href="/curso_pdo_TechCod/css/styles.css">
+    <link rel="stylesheet" href="/php/curso_pdo_TechCod/css/styles.css">
 </head>
 
 <body>
@@ -135,7 +135,7 @@ $p = new RegisteringSQL("crudpdo", "localhost", "root", "");
         </div>
     </form>
 
-    <script src="/curso_pdo_TechCod/js/scripts.js"> </script>
+    <script src="/php/curso_pdo_TechCod/js/scripts.js"> </script>
     <footer>
         <a class="input_btn" href="Registering-HTML.php">Atualizar Página</a>
         <p>&copy; RRVTI</p>
